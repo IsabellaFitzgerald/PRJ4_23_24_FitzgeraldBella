@@ -23,7 +23,7 @@
 }
 
 .resume-aside {
-	background-color: #E4FFFE;
+	background-color: #FFFFFF;
 }
 
 /* Styles for lists in the document */
@@ -49,4 +49,7 @@
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.pipi {
+	color: aliceblue
 }
